@@ -124,31 +124,31 @@ The dataset contains the following fields:
 
 ## Project Structure
 
-![Project Structure](Screenshot/project_structure.png)
+![Project Structure](Screenshots/project_structure.png)
 
 ---
 
 ## Dataset Output
 
-![Dataset Output](Screenshot/dataset_outpu.png)
+![Dataset Output](Screenshots/dataset_output.png)
 
 ---
 
 ## Dataset Information
 
-![Dataset Information](Screenshot/dataset_information.png)
+![Dataset Information](Screenshots/dataset_information.png)
 
 ---
 
 ## Statistics
 
-![Statistics](Screenshot/statistics.png)
+![Statistics](Screenshots/statistics.png)
 
 ---
 
 ## Filtered Students
 
-![Filtered Students](Screenshot/Filtered_students/filtered_students.png)
+![Filtered Students](Screenshots/Filtered_students/filtered_students.png)
 
 ---
 

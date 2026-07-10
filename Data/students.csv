@@ -1,0 +1,16 @@
+ID,Name,Age,Gender,Department,Marks,City
+1,Aman,20,Male,CSE,85,Delhi
+2,Priya,21,Female,CSE,92,Mumbai
+3,Rahul,22,Male,ECE,76,Lucknow
+4,Neha,20,Female,IT,89,Pune
+5,Rohit,21,Male,CSE,67,Jaipur
+6,Anjali,22,Female,ECE,95,Delhi
+7,Vikram,20,Male,IT,81,Noida
+8,Simran,21,Female,CSE,78,Chandigarh
+9,Arjun,23,Male,ME,72,Bhopal
+10,Kavya,20,Female,CSE,98,Bangalore
+11,Sahil,21,Male,ECE,88,Indore
+12,Riya,22,Female,IT,91,Hyderabad
+13,Deepak,20,Male,CSE,69,Patna
+14,Sneha,21,Female,ME,84,Nagpur
+15,Manish,22,Male,CSE,74,Kanpur
